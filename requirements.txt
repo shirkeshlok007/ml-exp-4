@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 flask
 scikit-learn
 numpy
 python-multipart
+=======
+fastapi
+uvicorn
+flask
+scikit-learn
+numpy
+python-multipart
+>>>>>>> 5850a0a2587c54d2e8eb7fcd66de0338fa6cc337
